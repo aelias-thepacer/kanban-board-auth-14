@@ -19,3 +19,11 @@ I've added user authentication to enhance security. Now, you can:
 1. Clone the repository.
 2. Install dependencies with `npm install`.
 3. Run the application with `npm start`.
+
+## Live Demo
+
+Check out the live application [here](https://kanban-board-auth-14.onrender.com/).
+
+## Screenshot
+
+Here is a screenshot of the deployed application: [View Screenshot](https://drive.go    ogle.com/file/d/1ParYVY3RUhEjx3sfRSqGUBMra4CHhZ-B/view?usp=sharing)
